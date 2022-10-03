@@ -1,1 +1,2 @@
-git
+print('Text')
+print("Hello world")
