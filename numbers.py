@@ -1,16 +1,16 @@
 b = 33 * 7
-print(b);
+print(b)
 
 c = 22/10
-print(c);
+print(c)
 
 d = 90 - 12
-print(d);
+print(d)
 
 a = 34 + 9
-print(a);
+print(a)
 
 s = 45 * (23+72)
-print(s);
+print(s)
 
 # I don't know how I can learn Python faster..

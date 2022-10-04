@@ -1,11 +1,14 @@
-a = 'Katerina'
-print(a)
+# a = input('Hello, your name:  ')
+# number_one = f"Hello, - {a}"
+# print(number_one)
 
+b = input('your name: ')
+print(b)
 
-print('Katusha');
+a = input('your name: ')
+c = f"Hello {a}, I am glad to see you!"
+print(c)
 
-b = 70
-print(type(b));
+user_age = input('Age:')
+print(user_age.isdigit())
 
-b = 70
-print(b);
